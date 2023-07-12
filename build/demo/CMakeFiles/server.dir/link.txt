@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb  -rdynamic CMakeFiles/server.dir/main.cpp.o  -o ../../bin/server  -Wl,-rpath,/home/feng/CS/Program/my-src/my-weberver/lib ../../lib/libmy-webserver.so -lmysqlclient 

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/buffer/buffer.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/buffer/buffer.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/buffer/buffer.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/http/httpconn.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/http/httpconn.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/http/httpconn.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/http/httprequest.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/http/httprequest.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/http/httprequest.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/http/httpresponse.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/http/httpresponse.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/http/httpresponse.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/log/log.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/log/log.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/log/log.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/pool/sqlconnpool.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/pool/sqlconnpool.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/pool/sqlconnpool.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/server/epoller.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/server/epoller.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/server/epoller.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/server/webserver.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/server/webserver.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/server/webserver.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/code",
+  "command": "/usr/bin/g++  -Dmy_webserver_EXPORTS -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb -fPIC   -o CMakeFiles/my-webserver.dir/timer/heaptimer.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/code/timer/heaptimer.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/code/timer/heaptimer.cpp"
+},
+{
+  "directory": "/home/feng/CS/Program/my-src/my-weberver/build/demo",
+  "command": "/usr/bin/g++   -I/home/feng/CS/Program/my-src/my-weberver/code/buffer -I/home/feng/CS/Program/my-src/my-weberver/code/http -I/home/feng/CS/Program/my-src/my-weberver/code/log -I/home/feng/CS/Program/my-src/my-weberver/code/pool -I/home/feng/CS/Program/my-src/my-weberver/code/server -I/home/feng/CS/Program/my-src/my-weberver/code/timer  -std=c++14 -Wall -std=c++14 -O2 -fopenmp -pthread  -g -ggdb   -o CMakeFiles/server.dir/main.cpp.o -c /home/feng/CS/Program/my-src/my-weberver/demo/main.cpp",
+  "file": "/home/feng/CS/Program/my-src/my-weberver/demo/main.cpp"
+}
+]
